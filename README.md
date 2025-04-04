@@ -1,5 +1,4 @@
-# Sinema-Sistemi
-Nesneye Yönelik Programlama dersi (Java)
+# Nesneye Yönelik Programlama dersi (Java)
 
 # Sinema Sistemi Projesi
 
